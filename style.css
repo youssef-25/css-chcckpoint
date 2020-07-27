@@ -1,0 +1,52 @@
+p{
+    color: blue;
+}
+h3{
+    color: yellow}
+
+
+
+ul > li {
+    /* border-top: 5px solid red; */
+/* }    background-origin: padding-box; */
+}
+header{
+    background-color: thistle;
+    display: flex;
+    justify-content: space-around;
+}
+.navbar {
+    display: flex;
+    width: 30%;
+    justify-content: space-around;
+}
+.navbar li{
+    list-style: none;
+}
+main {
+text-align: center;}
+p{
+    
+    text-align: center;
+}
+.you{
+    text-align: center;
+}
+.sport{
+    width: 50%;
+}
+.images{
+    display: flex;
+    justify-content: space-between      ;
+}
+.adresses{
+    text-align: center;
+}
+li{
+    list-style: none;
+    icon: center
+}
+.icons {
+    display: flex;
+    justify-content: center;
+}
